@@ -1,0 +1,23 @@
+{
+  "name": "ultimate_nft_programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaupWing/Ultimate-NFT-Programming-Tutorial---FULL-COURSE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaupWing/Ultimate-NFT-Programming-Tutorial---FULL-COURSE/issues"
+  },
+  "homepage": "https://github.com/LaupWing/Ultimate-NFT-Programming-Tutorial---FULL-COURSE#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
